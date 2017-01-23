@@ -21,9 +21,9 @@ The interactions with MongoDB is performed using mongoose package.
 
 If you would like to download the code and try it for yourself:
 
-1. Clone the repo
+1. Clone the repo: "https://github.com/gsbedi28/NodeJsDemo.git"
 2. Install packages: "npm install"
-3. Change out the database configuration in config/database.js
+3. Change the database configuration in config/database.js
 4. Dump folder contains the collections and databases. Use mongorestore command to get the database to execute the application.
 5. Launch: "node server.js"
 6. Visit in your browser at: "http://localhost:3000"
